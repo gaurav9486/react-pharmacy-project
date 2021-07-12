@@ -1,0 +1,21 @@
+.footer{
+    width: 100%;
+    padding: 2% 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(1, 22, 27);
+    color: white;
+}
+
+.footer h1{
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.footer h2{
+    margin: 0;
+    font-size: 20px;
+}

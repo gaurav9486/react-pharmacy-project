@@ -1,0 +1,70 @@
+.inventory-data{
+    min-height: 90vh;
+    box-sizing: border-box;
+    display: inline-block;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 20px;
+}
+
+.inventory-data h1{
+    text-align: center;
+}
+
+.inventory-header{
+    display: flex;
+    border-bottom: 1px solid grey;
+    padding: 5px 0;
+}
+
+.medicine-card{
+    display: flex;
+    border-bottom: 1px solid grey;
+    padding: 5px 0;
+}
+
+.table-heading{
+    font-weight: 700;
+}
+
+.inventory-first-column{
+    width: 18%;
+    text-align: center;
+    margin: 0;
+}
+
+.inventory-second-column{
+    width: 18%;
+    text-align: center;
+    margin: 0;
+}
+
+.inventory-third-column{
+    width: 18%;
+    text-align: center;
+    margin: 0;
+}
+
+.inventory-fourth-column{
+    width: 18%;
+    text-align: center;
+    margin: 0;
+}
+
+.inventory-fifth-column{
+    width: 18%;
+    text-align: center;
+    margin: 0;
+}
+
+.medicine-edit-button{
+    margin-left: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+.medicine-delete-button{
+    margin-left: 20px;
+    cursor: pointer;
+}

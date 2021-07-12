@@ -1,0 +1,27 @@
+.header{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    background-color: rgb(10, 139, 161);
+    padding: 10px 40px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pharmacy-title{
+    margin: 0;
+    font-size: 1.5em;
+    color: #fff;
+}
+
+.logout-btn{
+    text-transform: uppercase;
+    background-color: rgb(10, 139, 161);
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 0px 5px;
+    cursor: pointer;
+}

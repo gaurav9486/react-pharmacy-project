@@ -1,0 +1,69 @@
+.orders-data{
+    min-height: 90vh;
+    box-sizing: border-box;
+    display: inline-block;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 20px;
+}
+
+.orders-data h1{
+    text-align: center;
+}
+
+.orders-header{
+    display: flex;
+    border-bottom: 1px solid grey;
+    padding: 5px 0;
+}
+
+.orders-card{
+    display: flex;
+    border-bottom: 1px solid grey;
+    padding: 5px 0;
+}
+
+.table-heading{
+    font-weight: 700;
+}
+
+.orders-first-column{
+    width: 13%;
+    text-align: center;
+    margin: 0;
+}
+
+.orders-second-column{
+    width: 13%;
+    text-align: center;
+    margin: 0;
+}
+
+.orders-third-column{
+    width: 13%;
+    text-align: center;
+    margin: 0;
+}
+
+.orders-fourth-column{
+    width: 22%;
+    text-align: center;
+    margin: 0;
+}
+
+.orders-fifth-column{
+    width: 13%;
+    text-align: center;
+    margin: 0;
+}
+
+.orders-sixth-column{
+    width: 13%;
+    text-align: center;
+    margin: 0;
+}
+
+.order-delete-button{
+    margin-left: 20px;
+    cursor: pointer;
+}

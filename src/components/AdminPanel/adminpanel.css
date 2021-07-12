@@ -1,0 +1,15 @@
+.admin-panel-header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 20px 5%;
+    background-color: aquamarine;
+}
+
+.admin-panel-menu{
+    padding: 5px 10px;
+    background-color: burlywood;
+    border: 1px solid grey;
+    border-radius: 6px;
+    color: black;
+}

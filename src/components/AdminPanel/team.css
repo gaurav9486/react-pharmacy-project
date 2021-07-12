@@ -1,0 +1,70 @@
+.team-data{
+    min-height: 90vh;
+    box-sizing: border-box;
+    display: inline-block;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 20px;
+}
+
+.team-data h1{
+    text-align: center;
+}
+
+.team-header{
+    display: flex;
+    border-bottom: 1px solid grey;
+    padding: 5px 0;
+}
+
+.executive-card{
+    display: flex;
+    border-bottom: 1px solid grey;
+    padding: 5px 0;
+}
+
+.table-heading{
+    font-weight: 700;
+}
+
+.team-first-column{
+    width: 18%;
+    text-align: center;
+    margin: 0;
+}
+
+.team-second-column{
+    width: 18%;
+    text-align: center;
+    margin: 0;
+}
+
+.team-third-column{
+    width: 18%;
+    text-align: center;
+    margin: 0;
+}
+
+.team-fourth-column{
+    width: 18%;
+    text-align: center;
+    margin: 0;
+}
+
+.team-fifth-column{
+    width: 18%;
+    text-align: center;
+    margin: 0;
+}
+
+.executive-edit-button{
+    margin-left: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
+
+.executive-delete-button{
+    margin-left: 20px;
+    cursor: pointer;
+}

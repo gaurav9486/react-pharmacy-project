@@ -1,0 +1,12 @@
+*{
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+a{
+  text-decoration: none;
+}
+
+.empty-div{
+  height: 60px;
+}

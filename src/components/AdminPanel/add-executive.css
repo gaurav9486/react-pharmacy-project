@@ -1,0 +1,33 @@
+.executive-data{
+    text-align: center;
+}
+
+.add-executive-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+}
+
+.add-executive-form input{
+    display: block;
+    width: 400px;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid black;
+    border-radius: 6px;
+    outline: unset;
+}
+
+.add-to-team-btn{
+    background-color: rgb(4, 71, 80);
+    color: white;
+    width: 400px;
+    padding: 10px 0;
+    font-size: 16px;
+    margin-bottom: 50px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}

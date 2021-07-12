@@ -1,0 +1,41 @@
+a{
+    text-decoration: none;
+}
+
+.medicine-data{
+    text-align: center;
+}
+
+.edit-medicine-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.edit-medicine-form input{
+    display: block;
+    width: 400px;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid black;
+    border-radius: 6px;
+    outline: unset;
+}
+
+.buttons{
+    display: flex;
+}
+
+.buttons button{
+    background-color: rgb(23, 159, 177);
+    color: white;
+    width: 180px;
+    padding: 10px 0;
+    font-size: 16px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
